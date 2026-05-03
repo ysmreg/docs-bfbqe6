@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-opa15s.alphacbd.co.uk/sitemap.xml
